@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pulkit12347
-- 👀 I’m interested in Math
-- 🌱 I’m currently learning Python and Web Development
+- 👀 I’m interested in Freelancing
+- 🌱 I’m currently learning Python and C++
 - 
 - 
 <!---
